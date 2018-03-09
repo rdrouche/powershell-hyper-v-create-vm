@@ -1,0 +1,3 @@
+IsoPath,VMName,Processors,VMMemoryMB,VHDSizeGB,VMGeneration,InternalvSwitchName,ExternalvSwitchName,PrivatevSwitchName,VHDPath,VHDName,VHDName2,VHDSizeGB2
+"","XXXX-ROLE1",4,4096,100,2,"","PROD_VM","","C:\ClusterStorage\Volume1","XXXX-ROLE1-C","",""
+"","XXXX-ROLE2",4,4096,60,2,"","PROD_VM","","C:\ClusterStorage\Volume1","XXXX-ROLE2-C","XXXX-ROLE2-D","1000"
